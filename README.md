@@ -1,10 +1,10 @@
 # Parkers Pterodactyl eggs repo
 
-I am working on adding a large collection of public eggs for the Pterodactyl community.
-
-With that I am also accepting PR's for new services and also updates to the current ones.
-
-If you are submitting PR's try and keep names and titles the same.
+> [!IMPORTANT]
+>
+> ### Action Required:
+>
+> If you have any open issues or pull requests that are still relevant or needed, please consider migrating them to the new repositories.
 
 ## How to import an egg
 
